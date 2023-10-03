@@ -1,6 +1,6 @@
 {
   "name": "@WahooFitness/cordova-plugin-screen-orientation",
-  "version": "3.0.3-dev.1",
+  "version": "3.0.3-dev.2",
   "description": "Cordova Screen Orientation plugin",
   "scripts": {
     "test": "npm run lint",
